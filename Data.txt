@@ -1,0 +1,18 @@
+
+'//*[@id="page-wrapper"]/p-student/app-take-test/div/div/section/div/div[1]/div[1]/div/mcq-question/div/div[1]/span/mathjax-renderer/div'
+'//*[@id="page-wrapper"]/p-student/app-take-test/div/div/section/div/div[1]/div[1]/div/mcq-question/div/div[2]'
+
+
+
+
+#finish66
+Set =            '/html/body/div[1]/div[2]/div[2]/div/div[2]/div[2]/div/div[2]'
+Question_Xpath = '/html/body/div[1]/div[2]/div[2]/div/div[2]/div[2]/div/div[2]/div[1]/div[2]/div[1]'
+Option_Xpath =   '/html/body/div[1]/div[2]/div[2]/div/div[2]/div[2]/div/div[2]/div[1]/div[2]/div[2]/div'
+
+Answer_class = 'p-3 rounded-xl bg-violet-500/10 border border-violet-500/30'
+
+
+'/html/body/div[1]/div[2]/div[2]/div/div[2]/div[592]/div/div[2]'
+
+
