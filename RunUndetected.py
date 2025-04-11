@@ -20,7 +20,7 @@ import keyboard as kybd
 from pynput.mouse import Controller
 mouse = Controller()
 import google.generativeai as genai
-genai.configure(api_key="AIzaSyC4K65ObCZr_SGIq4NGEbupeMQyMzgK4GA")
+genai.configure(api_key=APIKEY)
 x1, x2, x3, x4, scale = 0, 0, 0, 0, 2
 job = ("Output should be strictly least character/characters possible out of 1,2,3,4,5 or combination in case mutiple are true, and 0 if not possibe to answer."
         " Return correct option as integer/integers without any separater. For example second and fourth option are correct, then return: 24."
